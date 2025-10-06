@@ -5,6 +5,6 @@ user-agent: bingbot
 Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-admin
 
-Sitemap:
-Sitemap:
+Sitemap: https://babycareworld.site/sitemap.xml
+Sitemap: https://babycareworld.site/sitemap.xml
 
